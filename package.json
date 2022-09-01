@@ -9,6 +9,7 @@
   "author": "Juan José Espinosa",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "uniqid": "^5.4.0"
   }
 }
