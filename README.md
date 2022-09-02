@@ -5,7 +5,7 @@
   ## [Description](#table-of-contents)
   This application allows the user to write and save notes. It uses Express.js back end and saves and retrieves note data from a JSON file. Deployed with Heroku.
   
-  [Heroku app Link](https://note-taker-app22.herokuapp.com/)
+  [Heroku app Link](https://note-taker-app2022.herokuapp.com/)
 
   ![Demo](./public/assets/images/DEMO%20SS%201.png)
   ![Demo](./public/assets/images/DEMO%20SS%202.png)
